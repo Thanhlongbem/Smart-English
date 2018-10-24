@@ -24,31 +24,31 @@
     //__________Listening __________________________
     //Start
     //Number of question
-    <string name="lis_c1">Question 1</string>
-    <string name="lis_c2">Question 2</string>
-    <string name="lis_c3">Question 3</string>
-    <string name="lis_c4">Question 4</string>
-    <string name="lis_c5">Question 5</string>
-    <string name="lis_c6">Question 6</string>
-    <string name="lis_c7">Question 7</string>
-    <string name="lis_c8">Question 8</string>
-    <string name="lis_c9">Question 9</string>
-    <string name="lis_c10">Question 10</string>
-    <string name="lis_c11">Question 11</string>
-    <string name="lis_c12">Question 12</string>
-    <string name="lis_c13">Question 13</string>
-    <string name="lis_c14">Question 14</string>
-    <string name="lis_c15">Question 15</string>
-    <string name="lis_c16">Question 16</string>
-    <string name="lis_c17">Question 17</string>
-    <string name="lis_c18">Question 18</string>
-    <string name="lis_c19">Question 19</string>
-    <string name="lis_c20">Question 20</string>
-    <string name="lis_c21">Question 21</string>
-    <string name="lis_c22">Question 22</string>
-    <string name="lis_c23">Question 23</string>
-    <string name="lis_c24">Question 24</string>
-    <string name="lis_c25">Question 25</string>
+    <string name="lis_c1">0 Point</string>
+    <string name="lis_c2">10 Point</string>
+    <string name="lis_c3">20 Point</string>
+    <string name="lis_c4">30 Point</string>
+    <string name="lis_c5">40 Point</string>
+    <string name="lis_c6">50 Point</string>
+    <string name="lis_c7">60 Point</string>
+    <string name="lis_c8">70 Point</string>
+    <string name="lis_c9">80 Point</string>
+    <string name="lis_c10">90 Point</string>
+    <string name="lis_c11">100 Point</string>
+    <string name="lis_c12">110 Point</string>
+    <string name="lis_c13">120 Point</string>
+    <string name="lis_c14">130 Point</string>
+    <string name="lis_c15">140 Point</string>
+    <string name="lis_c16">150 Point</string>
+    <string name="lis_c17">160 Point</string>
+    <string name="lis_c18">170 Point</string>
+    <string name="lis_c19">180 Point</string>
+    <string name="lis_c20">190 Point</string>
+    <string name="lis_c21">200 Point</string>
+    <string name="lis_c22">210 Point</string>
+    <string name="lis_c23">220 Point</string>
+    <string name="lis_c24">230 Point</string>
+    <string name="lis_c25">240 Point</string>
 
     <string name="listening_start">Game will begin after you click start</string>
     //Bai 1
